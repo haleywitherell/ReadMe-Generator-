@@ -1,5 +1,13 @@
 # ReadMe Generator
 
+## Table of Contents 
+[Description](#description)
+[Installation Instructions] (#installation-instructions)
+[Usage Information] (#usage-information)
+[Contribution Guidelines] (#contribution-guidelines)
+[Test Instructions] (#test-instructions)
+[Questions] (#questions)
+
 ## Description
 
 This is a short description for this project
@@ -8,7 +16,7 @@ This project will create a ReadMe file in the command line when you type node in
 
 ## Installation Instructions
 
-inquirer and fs
+Install inquirer and fs.
 
 ## Usage Information
 
@@ -16,11 +24,11 @@ commercial
 
 ## Contribution Guidelines
 
-None
+Haley Witherell
 
 ## Test Instructions
 
-N/A
+No tests run.
 
 ## Questions
 

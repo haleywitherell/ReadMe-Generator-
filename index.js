@@ -5,6 +5,14 @@ const fs = require('fs');
 const readmeGenerator =(obj) => {
     const structure = `# ${obj.title}
 
+## Table of Contents 
+[Description](#description)
+[Installation Instructions] (#installation-instructions)
+[Usage Information] (#usage-information)
+[Contribution Guidelines] (#contribution-guidelines)
+[Test Instructions] (#test-instructions)
+[Questions] (#questions)
+
 ## Description
 
 This is a short description for this project
