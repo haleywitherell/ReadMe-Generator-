@@ -8,7 +8,7 @@ This project will create a ReadMe file in the command line when you type node in
 
 ## Installation Instructions
 
-N/A
+inquirer and fs
 
 ## Usage Information
 
