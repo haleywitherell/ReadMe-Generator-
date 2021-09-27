@@ -1,5 +1,7 @@
 # ReadMe Generator
 
+## Table of Contents 
+
 ## Description
 
 This is a short description for this project
