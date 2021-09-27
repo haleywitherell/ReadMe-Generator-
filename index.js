@@ -29,7 +29,7 @@ ${obj.testInstructions}
 
 ## Questions
 
-You may email me or contact me through GitHub with any questions. See my contact info below.
+Feel free to contact me with any questions. See my contact info below.
 
 ${obj.questions}` 
 
