@@ -16,7 +16,7 @@ const readmeGenerator =(obj) => {
 
 ## Description
 
-This is a short description for this project
+See a short description of my project below.
 
 ${obj.description}
 
