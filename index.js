@@ -84,7 +84,7 @@ const promptUser = () => {
         type: 'list',
         name: 'license',
         message: 'Choose your project licensing information.',
-        choices: ["commercial", "enterprise", "clown college"]
+        choices: ["Apache License 2.0", "GNU General Public License (GPL)", "MIT license", "Mozilla Public License 2.0", "Common Development and Distribution License", "Eclipse Public License version 2.0", "Unlicensed"]
       },
       {
         type: 'input',

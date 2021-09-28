@@ -28,11 +28,11 @@ Install inquirer and fs.
 
 ## Usage Information
 
-Enter node index into ypur commans line and answer the questions that pop up to have your ReadMe file created.
+Enter node index into your command line in terminal and answer the questions that pop up to have your ReadMe file created.
 
 ## License
 
-commercial
+MIT license
 
 ## Contribution Guidelines
 
