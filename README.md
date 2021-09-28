@@ -46,4 +46,4 @@ No tests run.
 
 Feel free to contact me with any questions. See my contact info below.
 
-Email: hwitherell22@gmail.com & GitHub: haleywitherell 
+Email: hwitherell22@gmail.com & GitHub: [haleywitherell](https://github.com/haleywitherell/ReadMe-Generator-#license)
