@@ -3,6 +3,11 @@ const fs = require('fs');
 
 // ReadMe Questions
 const readmeGenerator =(obj) => {
+const licenses = {
+    "Apache License 2.0": "[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)"
+}
+const badge = licenses[obj.license]
+
     const structure = `# ${obj.title}
 
 ## Table of Contents 
@@ -30,7 +35,7 @@ ${obj.usageInformation}
 
 ## License
 
-${obj.license}
+${badge}
 
 ## Contribution Guidelines
 
