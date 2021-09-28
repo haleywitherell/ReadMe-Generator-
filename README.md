@@ -18,9 +18,9 @@
 
 ## Description
 
-This is a short description for this project
+See a short description of my project below.
 
-This project will create a ReadMe file in the command line when you type node index and answer the prompted questions.
+This project will create a ReadMe file in the command line when you type npm install followed by node index and answer the prompted questions.
 
 ## Installation Instructions
 
@@ -32,7 +32,7 @@ commercial
 
 ## License
 
-idk
+N/A
 
 ## Contribution Guidelines
 
