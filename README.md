@@ -7,6 +7,8 @@
 
 [Usage Information](#usageInformation)
 
+[License](#license)
+
 [Contribution Guidelines](#contributionGuidelines)
 
 [Test Instructions](#testInstructions)
@@ -27,6 +29,10 @@ Install inquirer and fs.
 ## Usage Information
 
 commercial
+
+## License
+
+idk
 
 ## Contribution Guidelines
 

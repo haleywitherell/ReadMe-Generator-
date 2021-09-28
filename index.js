@@ -9,6 +9,7 @@ const readmeGenerator =(obj) => {
 [Description](#description)\n
 [Installation Instructions](#installationInstructions)\n
 [Usage Information](#usageInformation)\n
+[License](#license)\n
 [Contribution Guidelines](#contributionGuidelines)\n
 [Test Instructions](#testInstructions)\n
 [Questions](#questions)\n
@@ -26,6 +27,10 @@ ${obj.installationInstructions}
 ## Usage Information
 
 ${obj.usageInformation}
+
+## License
+
+${obj.license}
 
 ## Contribution Guidelines
 
@@ -75,6 +80,11 @@ const promptUser = () => {
         type: 'input',
         name: 'contributionGuidelines',
         message: 'Insert project contribution guidelines and information here.',
+      },
+      {
+        type: 'input',
+        name: 'license',
+        message: 'Insert project licensing information here.',
       },
       {
         type: 'input',
