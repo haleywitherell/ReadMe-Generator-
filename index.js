@@ -71,10 +71,9 @@ const promptUser = () => {
         message: 'Insert project installation instructions.',
       },
       {
-        type: 'list',
+        type: 'input',
         name: 'usageInformation',
         message: 'Insert project usage information.',
-        choices: ["commercial", "enterprise", "clown college"]
       },
       {
         type: 'input',
@@ -82,9 +81,10 @@ const promptUser = () => {
         message: 'Insert project contribution guidelines and information here.',
       },
       {
-        type: 'input',
+        type: 'list',
         name: 'license',
-        message: 'Insert project licensing information here.',
+        message: 'Choose your project licensing information.',
+        choices: ["commercial", "enterprise", "clown college"]
       },
       {
         type: 'input',

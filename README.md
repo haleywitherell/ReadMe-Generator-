@@ -1,4 +1,4 @@
-# ReadMe Generator 
+# ReadMe Generator
 
 ## Table of Contents 
 [Description](#description)
@@ -28,11 +28,11 @@ Install inquirer and fs.
 
 ## Usage Information
 
-commercial
+Enter node index into ypur commans line and answer the questions that pop up to have your ReadMe file created.
 
 ## License
 
-N/A
+commercial
 
 ## Contribution Guidelines
 
