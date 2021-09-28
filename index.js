@@ -6,12 +6,12 @@ const readmeGenerator =(obj) => {
     const structure = `# ${obj.title}
 
 ## Table of Contents 
-[Description](#description)
-[Installation Instructions](#installationInstructions)
-[Usage Information](#usageInformation)
-[Contribution Guidelines](#contributionGuidelines)
-[Test Instructions](#testInstructions)
-[Questions](#questions)
+[Description](#description)\n
+[Installation Instructions](#installationInstructions)\n
+[Usage Information](#usageInformation)\n
+[Contribution Guidelines](#contributionGuidelines)\n
+[Test Instructions](#testInstructions)\n
+[Questions](#questions)\n
 
 ## Description
 
