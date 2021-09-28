@@ -1,12 +1,12 @@
-# ReadMe Generator
+# ReadMe Generator 
 
 ## Table of Contents 
 [Description](#description)
-[Installation Instructions] (#installationInstructions)
-[Usage Information] (#usageInformation)
-[Contribution Guidelines] (#contributionGuidelines)
-[Test Instructions] (#testInstructions)
-[Questions] (#questions)
+[Installation Instructions](#installationInstructions)
+[Usage Information](#usageInformation)
+[Contribution Guidelines](#contributionGuidelines)
+[Test Instructions](#testInstructions)
+[Questions](#questions)
 
 ## Description
 

@@ -7,10 +7,10 @@ const readmeGenerator =(obj) => {
 
 ## Table of Contents 
 [Description](#description)
-[InstallationInstructions](#installationInstructions)
-[UsageInformation](#usageInformation)
-[ContributionGuidelines](#contributionGuidelines)
-[TestInstructions](#testInstructions)
+[Installation Instructions](#installationInstructions)
+[Usage Information](#usageInformation)
+[Contribution Guidelines](#contributionGuidelines)
+[Test Instructions](#testInstructions)
 [Questions](#questions)
 
 ## Description
