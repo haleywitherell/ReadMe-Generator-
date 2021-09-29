@@ -4,7 +4,9 @@ const fs = require('fs');
 // ReadMe Questions
 const readmeGenerator =(obj) => {
 const licenses = {
-    "Apache License 2.0": "[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)"
+    "Apache License 2.0": "[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)",
+    "MIT license": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)",
+    "Mozilla Public License 2.0": "[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)"
 }
 const badge = licenses[obj.license]
 
@@ -89,7 +91,7 @@ const promptUser = () => {
         type: 'list',
         name: 'license',
         message: 'Choose your project licensing information.',
-        choices: ["Apache License 2.0", "GNU General Public License (GPL)", "MIT license", "Mozilla Public License 2.0", "Common Development and Distribution License", "Eclipse Public License version 2.0", "Unlicensed"]
+        choices: ["Apache License 2.0", "MIT license", "Mozilla Public License 2.0", "Unlicensed"]
       },
       {
         type: 'input',
